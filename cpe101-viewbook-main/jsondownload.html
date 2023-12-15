@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <title>Google Sheets Database</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <script src="https://cdn.jsdelivr.net/npm/csvtojson/browser/csvtojson.min.js"></script>
+    <style>
+        *{box-sizing: border-box;}
+        body {max-width: 800px; width: 100%; margin: 1em auto; font-size: 2em; font-family: Arial; padding: 1em;}
+        h1  {text-align: center;}
+        code {white-space: pre-wrap;}
+    </style>
+</head>
+<body>
+    <h1>Hello World.</h1>
+    <h2>Items</h2>
+    <main></main>
+    <script>
+        const url = "https://docs.google.com/spreadsheets/d/1tMXJ6gP7TPdsdQqpbUkI1OFt-diEJm8XLjuE_5Ze6B8/export?format=csv";
+        const main = document.querySelector("main");
+
+        // Fetch CSV data from Google Sheets
+        fetch(url)
+            .then(result => result.text())
+            .then(function(csvtext){
+                return csv().fromString(csvtext);
+            }).then(function(csv){
+                // Replace newline characters with HTML line breaks in the display
+                const formattedJson = JSON.stringify(csv, null, 2).replace(/\n/g, '<br>');
+                main.innerHTML = "<code>" + formattedJson + "</code>";
+
+                // Create and save the JSON file
+                const jsonData = JSON.stringify(csv, null, 2);
+                const blob = new Blob([jsonData], { type: 'application/json' });
+                const a = document.createElement('a');
+                a.href = URL.createObjectURL(blob);
+                a.download = 'data.json';
+                a.click();
+            });
+    </script>
+</body>
+</html>

@@ -1,0 +1,146 @@
+[
+  {
+    "weekNumber": "1",
+    "date": "10/08/2023",
+    "Topic": "What’s Engineering Do?",
+    "content": "แนะนำคอร์ส และยกตัวอย่างงานด้านต่างๆที่วิศกรทำ\n\n-แนะนำรายวิชา CPE101 **Engineering Exploration**\n\nเปิดโลกให้กับนักศึกษาวิศวกรรมคอมพิวเตอร์ปีที่ 1 ให้ได้เข้าสู่โลกของวิศวกร ได้รู้จักกับคำว่า”วิศวกร” และเตรียมพร้อมกับการเป็นวิศวกร\n\n-House Keeper Robot Project (Midterm project)\n\nเกริ่นถึงการทำ Midterm project ว่าเป็นการทำหุ่นยนต์เก็บลูกบอลโดยใช้ micro:bit และ Huskeylens โดยมีการใช้ AI เข้ามาช่วย\n\n-**The Problem-Solving Process in Engineering**\n\nจับกลุ่ม 5-7 คนเพื่อทำการแก้ไขปัญหาที่เกิดขึ้นโดยใช้หลักการทางวิศวกรรม",
+    "picture1": "https://scontent.fbkk12-4.fna.fbcdn.net/v/t39.30808-6/366993885_6422412344508760_8458127137464345827_n.jpg?stp=cp6_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeHf78yiXeQN0e5G8oYhA28_bwOn3ORgv7pvA6fc5GC_upCjft9EiYidbqjU4q0cgFnHrnhJ2s_x99Zfg0IdeOzN&_nc_ohc=Bs9744OMOYIAX8qxipJ&_nc_ht=scontent.fbkk12-4.fna&oh=00_AfDSh8yQWhi2ausCBDR_-tr8IH3wyow2SueSILd9xt8EgA&oe=656F5B76",
+    "picture2": "https://scontent.fbkk13-2.fna.fbcdn.net/v/t39.30808-6/366843659_6422419617841366_4074113107349887507_n.jpg?stp=cp6_dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeEr54KFT0N0hQxcgoPHeQbi-iluE2uT-xT6KW4Ta5P7FDOZ63CjXOvGVMFTdx_zg0zwd5eCbmZHMyXn-2vTrjNE&_nc_ohc=w1vd_WuNT2YAX_fhxWG&_nc_ht=scontent.fbkk13-2.fna&oh=00_AfCKIv3-xLd0ZA46V7MemCzOCQGRfa2FFZwITd_1f-81Mg&oe=6570DF95",
+    "picture3": "https://scontent.fbkk13-3.fna.fbcdn.net/v/t39.30808-6/367712632_1777081509381499_5643140814453237518_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeFwBXdC97WV5LRwupo27GDGLUaqSicj-PgtRqpKJyP4-MBmEvfR1fia_ncC__MQr8THFGJdViaIsogdX-I1rFHI&_nc_ohc=zX4lX9FftR0AX83I4SU&_nc_ht=scontent.fbkk13-3.fna&oh=00_AfChNtIcsFWD0o8iKMVy2yYrw-m6iGMoeMWM3Q-bPbN47w&oe=6570924F"
+  },
+  {
+    "weekNumber": "2",
+    "date": "24/08/2023",
+    "Topic": "Working Foundation.",
+    "content": "เรียนรู้การเขียน action plan ซึ่งประกอบไปด้วย การกำหนดเป้าหมาย การประเมิณความเสี่ยง และการตรวจสอบความคืบหน้าของการดำเนินงาน\n\n-The Planning Process\n\nเรียนรู้ขั้นตอนในการวางแผนสำหรับการทำโปรเจ็คในอนาคต\n\n-Affiliate Marketing\n\nได้เรียนรู้ความหมาย,องค์ประกอบ, ข้อดี, วิธีการทำ Affiliate Marketing และได้ลองออกแบบ prototype Affiliate Marketing จาก Assignment ในคลาสเรียน\n\n-Goals & Follow up\n\nเรียนรู้ขั้นตอนและวิธีการตั้งเป้าหมายเพื่อให้ประสบความสำเร็จโดยวิธีการ S.M.A.R.T.E.R system\n\n-Consensus Decision\n\nเรียนรู้ถึงความสำคัญและความหมายของการ Consensus Decision และมีการ Guidelines การ Consensus Decision",
+    "picture1": "https://scontent.fbkk9-2.fna.fbcdn.net/v/t39.30808-6/370880741_2274596109399102_7345982396882102945_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeFGDdBYpEZD9azzMTUP4ECgHoaUyJQd1nMehpTIlB3Wcwdv2iIThfLjEyAkMZ886uGRMTptCI9WaSjgPsymyYGY&_nc_ohc=uImLsUl3hDoAX_n0LCB&_nc_ht=scontent.fbkk9-2.fna&oh=00_AfAfDs4gmU4_Btf0MNkl0utcAA1foe2yjgmi_awqyzA9iw&oe=656EE9E8",
+    "picture2": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/370223476_6606868346038188_1535640732227536699_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeHNBs3P16YchZQ33dVyIUpopLeMj28A-V6kt4yPbwD5XnyNuXEpiUSCmrMSg7Z2cyWmiWFJwz39OkwGGWnslFgh&_nc_ohc=5UCYIjH5BlgAX-rUnNj&_nc_ht=scontent.fbkk12-2.fna&oh=00_AfCiaVv5ywXhXH7a_kimnZiL2fMJp4fS7dO5FEETb-cdOw&oe=656FECFD",
+    "picture3": "https://scontent.fbkk13-1.fna.fbcdn.net/v/t39.30808-6/370425828_6606868296038193_3307262708287220020_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeFEgdmyhXBYPGqOye2WzVxLInq_tc3NYiYier-1zc1iJvIJ4WJoPoHwF6OqDnpAfX0-YDmJycfw-5edWeIH6eCG&_nc_ohc=K-1ubzu-jn4AX-B1kQ-&_nc_ht=scontent.fbkk13-1.fna&oh=00_AfAALODgl4PQMNsE6KaOTHsxet0RAnevb_PqGJZrwzGN9w&oe=656FE740"
+  },
+  {
+    "weekNumber": "3",
+    "date": "31/08/2023",
+    "Topic": "Engineer Drawing(2D and 3D)",
+    "content": "# \r\n\r\nทดลองใช้โปรแกรม AutoCAD ในการเขียน 2D design และใช้โปรแกรม TinkerCAD ในการเขียน 3D design\r\n\r\n-Introduction to Engineering Drawing\r\n\r\nเรียนรู้ถึงความหมายและความสำคัญของการเขียนแบบทางวิศวกรรมแบบพื้นฐาน\r\n\r\n-Engineering Graphics\r\n\r\n-Model\r\n\r\n-Technical illustration\r\n\r\n-Technical sketch\r\n\r\n-3D Drawing:\r\n\r\nได้ลองปั้น Model 3D ด้วยโปรแกรม tinkerCAD\r\n\r\n-2D Drawing:\r\n\r\nได้ลองเขียนแบบ 2D ด้วยโปรแกรม LibreCAD \r\n\r\n-Technical Drawing\r\n\r\nเรียนรู้ถึงเทคนิคที่ใช้ในการเขียนแบบทางวิศวกรรมประกอบไปด้วย\r\n\r\n-Design Sketches\r\n\r\n-Layout Drawings\r\n\r\n-Assembly Drawings\r\n\r\n-Detail Drawings\r\n\r\n-How to represent an object\r\n\r\nได้เรียนรู้การวาดวัตถุในมุมต่างๆ\r\n\r\n-Perspective\r\n\r\nเรียนรู้การเขียนแบบจากมุมมองสายตา\r\n\r\n-Parallel\r\n\r\n-Isometric\r\n\r\nเรียนรู้การเขียนแบบที่ใช้มุมเอียง 45 องศา\r\n\r\n-Oblique\r\n\r\nเรียนรู้การเขียนแบบที่ใช้มุมเอียง 30 และ 60 องศา\r\n\r\n-Multiview\r\n\r\nเรียนรู้มุมมองจากการ top view, side view, front view\r\n\r\n-Assignment 2D Android Drawing:\r\n\r\nงานเขียนแบบรูป Android 2D โดยใช้โปรแกรม LibreCAD หรือ AutoCAD \r\n\r\n-Assignment 3D นกหวีด:\r\n\r\nงานออกแบบ 3D Model นกหวีดด้วยโปรแกรม TinkerCAD",
+    "picture1": "",
+    "picture2": "",
+    "picture3": ""
+  },
+  {
+    "weekNumber": "4",
+    "date": "07/09/2023",
+    "Topic": "Basic Embedded Systems",
+    "content": "ได้ทดลองใช้ micro:bit ในการควบคุมหุ่นยนต์ให้เคลื่อนที่ตามโจทย์ของอาจารย์\r\n\r\n-**Introducing Micro:bit**:\r\n\r\nรู้จักกับ Micro:bit, คุณสมบัติทั่วไปของ Micro:bit, Hardware ของ Micro:bit\r\n\r\n-เขียนโปรแกรมควบคุมหุ่นยนต์ด้วย Micro:bit \r\n\r\n-เขียนโปรแกรมให้หุ่นยนต์เคลื่อนที่เป็นสี่เหลี่ยม\r\n\r\n-เขียนโปรแกรมเล่นกับเสียงเพลง\r\n\r\n-เขียนโปรแกรมแสดงผลผ่านจอ\r\n\r\n-Extension for micro:bit\r\n\r\nโหลด Extension ไว้เพื่อเตรียมทำ Midterm โปรเจ็ค House Keeper Robot Project\r\n\r\n-iBit\r\n\r\n-DFRobot_HuskyLens",
+    "picture1": "https://scontent.fbkk12-5.fna.fbcdn.net/v/t39.30808-6/374740805_6662198933848429_8270290102082239372_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeG7t4R-WH_n8C1tgUG6CzkcP0T2wqT2jYE_RPbCpPaNgUlAzDGpNlQnGrcUab8QL3O-ivnfO9YO2UDHGXgNR--5&_nc_ohc=lURhhOebaagAX-eQQj6&_nc_ht=scontent.fbkk12-5.fna&oh=00_AfASXbqFJRuIrDxiz0sZIuuXdU70LfHL1bJ5l4m_6jRE5Q&oe=6570DC4E",
+    "picture2": "https://scontent.fbkk13-3.fna.fbcdn.net/v/t39.30808-6/373668332_6663326463735676_7426777577221396912_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeFxzFFY4_5Yg6hlU12UBFrrG0QG5Z7qLwQbRAblnuovBAuG62MCMrnAJHfovUCCPL0mTsuw2xHmo6bQn1FYfeVL&_nc_ohc=CY0-qC1VXJ0AX_2e1ZV&_nc_oc=AQm1xZA8t9Y06ImFZglBpj4H3b74CSFBM0OkhB2JSomW9yaTGNCgZkjDyEVfgP2073A&_nc_ht=scontent.fbkk13-3.fna&oh=00_AfCu70arz-wfD0PYkltttz7oXY3C2lK0j2nENpXeLfGLDQ&oe=6570D0C0",
+    "picture3": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/374141366_6663327013735621_4132045391331157490_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeEJfkPbzMOOZpjV7YXqll1cuUlNzfHJ-Mi5SU3N8cn4yM7B4qYIjGCCZWOOOhrHn0cLNSllj5KCnRSug2ocONll&_nc_ohc=SmtYA3LL5wUAX-x44M4&_nc_ht=scontent.fbkk12-2.fna&oh=00_AfAebJBMNaRF65p4mjPwrIEajN8mKOqpS1sfrvdkWxJ3OA&oe=657022D4"
+  },
+  {
+    "weekNumber": "5",
+    "date": "21/09/2023",
+    "Topic": "Intelligent Systems",
+    "content": "-ได้ทดลองใช้ Husky lens ในการทำ machine learning  โดยให้ตัวกล้องจับภาพและจำแนกสิ่งของตามที่เราได้ train ไว้\n\n-What is Artificial Intelligence?\n\nรู้จักกับคำว่า “Artificial Intelligence” , ประวัติและวิวัฒนาการของ AI\n\n-What is Machine Learning?\n\nเรียนรู้ถึงความแตกต่างระหว่าง AI กับ Machine Learning และประเภทของ Machine Learning\n\n-Real World Machine Learning\n\nยกตัวอย่าง Machine Learning ที่พบเจอได้ในชีวิตประจำวัน เช่น Netflix suggestion, Space X’s Falcon 9, Tesla’s Full Self-Driving system and chat-GPT.\n\n-Machine Learning Tools\n\nรู้จักกับเครื่องมือที่ใช้เขียน Machine Learning เช่น ภาษา Python, Java, R, Scala และ Library ที่ใช้ในการเขียน Machine Learning เช่น Pandas, Sklearn, Tensorflow \n\n-Machine Learning LAB!\n\nได้ลองลงมือสร้าง AI แยกวัตถุด้วย Teachable Machine และลองทำความรู้จักกับ Huskylens เพื่อแยกสีหรือวัตถุสำหรับใช้ใน Midterm Project",
+    "picture1": "https://scontent.fbkk12-5.fna.fbcdn.net/v/t39.30808-6/381518473_1964930053874433_2940529184603599567_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeHgtH4Jw7tany3WEZOxtrwVC50eUeaNItwLnR5R5o0i3ATfvp5oX6NqP3S3iEPGoqeK-bKqA-3WZG63G7jDqHu_&_nc_ohc=4gyR2knYzloAX9EWa4U&_nc_ht=scontent.fbkk12-5.fna&oh=00_AfABPqIzYKMd6AyjtnIrqskK9ZkwhWyTRNVDamrZqpk7-Q&oe=6570E130",
+    "picture2": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/381065452_2291540541037992_3390150679762182468_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeE28wI2Ge3t9rmz2qL7gZRURQldlVfbgApFCV2VV9uACgH04j7JmL75alPhvHoC-boLWtwZvD6i3CJc8IfPZRyP&_nc_ohc=2fFem51C9gYAX_RhIbh&_nc_oc=AQlSdQSp8NsyutJjKLbce06ZCGmLS-5cZHeOXqVy7OQu8pf4m5F9BDpvoVV-VXMsCAw&_nc_ht=scontent.fbkk12-2.fna&oh=00_AfCFXerk3tiMoRyT8Nj6tqaPe3iUn8GOrVosrpk58DC0TQ&oe=656EFB72",
+    "picture3": "https://scontent.fbkk13-3.fna.fbcdn.net/v/t39.30808-6/381656405_1964930167207755_7433224533279218571_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeFf3tjp0NWF7szkOxSDQvx6rHuM2oCsCKise4zagKwIqEfVcdSDV_UJA8H8xKf6djH_0Ys4krNndWiiuyNf-44s&_nc_ohc=5Eq5V4f2YR8AX-JAib7&_nc_ht=scontent.fbkk13-3.fna&oh=00_AfCVjPyxmBYK9uwyyKyOm6l9e1dSDHA-wmrM9mr6Iwp5Nw&oe=657094E8"
+  },
+  {
+    "weekNumber": "6",
+    "date": "28/09/2023",
+    "Topic": "TinkerCAD Circuits",
+    "content": "-ใช้ TinkerCAD circuits ในการต่อวงจรแบบง่าย\n\n-Problem Solving and Decision Making Skills\n\nเรียนรู้ถึงการแก้ไขปัญหาและการตัดสินใจต่างๆ \n\n-Analog Circuit \n\nรู้จักกับวงจรแบบอนาล็อก, การทำงานและความสามารถของวงจรแบบอนาล็อก, ตัวอย่างวงจรแบบอนาล็อก เช่น resistor, capacitors, inductors, operational amplifiers.\n\n-OHM’s Law\n\nเรียนรู้กฏของโอห์ม และการนำกฏไปคำนวณ\n\n-Resistors \n\nเรียนรู้วิธีอ่านค่าความต้านทานตามแถบสีบนตัวต้านทานและมีแบบฝึกหัดให้ลองทำในห้อง\n\n-Basic Circuit with Resistors\n\nเรียนรู้การอ่านวงจรไฟฟ้าอย่างง่ายและได้ลองคำนวนโดยใช้กฏของโอห์ม\n\n-Capacitors\n\nรู้จักกับตัวเก็บประจุ, ความสามารถและหน้าที่ของตัวเก็บประจุ\n\n-Digital Circuit\n\nรู้จักกับวงจรแบบดิจิตอล, ตรรกศาสตร์ที่ใช้กับวงจรแบบดิจิตอล เช่น AND,OR,XOR,NOT \n\n-Basic Digital IC logic gate in Chip\n\nได้ลองคำนวณทางตรรกศาสตร์กับการวงจรแบบดิจิตอลอย่างง่าย\n\n-Microcontroller",
+    "picture1": "https://scontent.fbkk8-2.fna.fbcdn.net/v/t39.30808-6/385003643_1968849760149129_1781266965316416301_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeFyNtHUDR4TPtGmbgir03ciTWQubiroZT1NZC5uKuhlPYXjLCkt3vwylaaGejpIPMx1AyQRHn6lwsNu6lvp1766&_nc_ohc=eDibrbfHJ6IAX9k6Mpj&_nc_ht=scontent.fbkk8-2.fna&oh=00_AfAbHV1UNcVsPUXMHeV-DyNijOYBMn7og3a4gWcEo3b71Q&oe=656F15B5",
+    "picture2": "https://scontent.fbkk12-5.fna.fbcdn.net/v/t39.30808-6/386704534_2299356096923103_4194248617513838255_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeH2cTx41EYVyzMzWElnCEyomkbnwlgMwUCaRufCWAzBQOHMRAAkDPsX0XEw9PoSraUF6NTnfWe_OkNntS7WNPA5&_nc_ohc=HJ1_oj3vIa8AX8oVNKy&_nc_ht=scontent.fbkk12-5.fna&oh=00_AfD2FYm7VdP7KaaDR2O44gOg8CCHM0jlWqz5UbXVR-DLzw&oe=656F9D92",
+    "picture3": "https://scontent.fbkk13-2.fna.fbcdn.net/v/t39.30808-6/386587106_2299356046923108_2440296598096315902_n.jpg?stp=cp6_dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeHl7dti7VQYU1lbSG5FJJ7AG7CxJ5-rXgMbsLEnn6teA_USwRQmpZm-q72ymXk2G2Wc3hwNV2-50NUp_de5eZNZ&_nc_ohc=ZXslnAo392gAX9KKLCI&_nc_oc=AQnuX0XSPSPWTN-UqrIKj0tL5_n7NZrtSW_S0yzLIcXPlKipTD1pGLujaNHGI3u6YRo&_nc_ht=scontent.fbkk13-2.fna&oh=00_AfCNgvfthv_bPocBqHGyaJ9hejOjL3AUEQSyGZWZRM2V1A&oe=65708A57"
+  },
+  {
+    "weekNumber": "7",
+    "date": "05/10/2023",
+    "Topic": "Application Design",
+    "content": "เรียนรู้การออกเเบบ Website เเละการเขียน โดยได้มีการเรียนรูถึง html css เเละ javascript ในระบบพื้นนฐาน ก่อนที่จะให้งานในการทำเว็บ portfolio ของตัวเอง\r\n\r\n-Introduction to Wep application Development\r\n\r\nทำความรู้จักกับการพัฒนา Wep application เรียนโครงสร้างของ Wep application, Database, Front End & Back End, Framework\r\n\r\n-How can we struct a webpage?\r\n\r\nเรียนรู้การเขียน website โดยใช้ HTML, CSS, Javascript\r\n\r\n-Basic HTML\r\n\r\nเรียนรู้โครงสร้างของ HTML เพื่อทำโครงร่าง website\r\n\r\n-Basic CSS\r\n\r\nเรียนรู้การทำงานของ CSS เพื่อตกแต่ง website\r\n\r\n-Basic Javascript for DOM manipulate\r\n\r\nเรียนรู้การเขียนโปรแกรมภาษา Javascript เพื่อเพิ่มลูกเล่นต่างๆ ให้กับ website\r\n\r\n-Assignment Portfolio:\r\n\r\nมอบหมายงานให้ทำ Website Portfolio ของตนเองโดยใช้ HTML,CSS และ Javascript",
+    "picture1": "https://scontent.fbkk13-2.fna.fbcdn.net/v/t39.30808-6/370362815_1973132059720899_4994140284028106257_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeEhILTEXC9y1Lu7UuX1U_lcqi5_UzoGFd2qLn9TOgYV3V-PLs7NQOxI-6V2tYpkNN5gzbdz1-BG_SI6pyns62Es&_nc_ohc=lueAsIuuTwcAX_S-5dP&_nc_ht=scontent.fbkk13-2.fna&oh=00_AfBGgQV4xIrLBPQwI8ZgVL8TO4bI2JgnsgaCHFvyOzCjOg&oe=6570C3A6",
+    "picture2": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/370362539_6753583824699972_352303272598655287_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeEgXDDUoOxojExf6S8KE81aopJwD8iqHgeiknAPyKoeBxDEhYOwYH9zN63Hq1Rn9MCF7h_hmwrqQ3AyKi1L9FNH&_nc_ohc=egIyA2eBnpwAX-qZUuE&_nc_ht=scontent.fbkk12-2.fna&oh=00_AfBYUYJMR5JnQyLYRsskGHmdF2czGSJgzxQkAfgXs1u7og&oe=657059EB",
+    "picture3": "https://scontent.fbkk9-2.fna.fbcdn.net/v/t39.30808-6/387165342_1973132423054196_1325524346950629778_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeE90dYzscrrd41SnKKW4dydt-wNlx4HiP237A2XHgeI_S4Q3IQV28-3NW7r4NUUncTryHNup1YkVqkJ5kjL7e4J&_nc_ohc=hd2iVm-elhsAX9lqfUb&_nc_ht=scontent.fbkk9-2.fna&oh=00_AfB4ZhkOQ3qGEyFRDC45bd5FRmAWelUlLx9upw-E5u5weQ&oe=6570CB3A"
+  },
+  {
+    "weekNumber": "8",
+    "date": "12/10/2023",
+    "Topic": "Game",
+    "content": "เรียนรู้การเขียนเกมพื้นฐานโดยใช้ Unity โดยใช้ Asset เเละ Code ที่ถูกเตรียมไว้เเล้ว\n\n-Introduction to Game development\n\n-What is Game\n\nทำความรู้จักกับเกมว่าเกมคืออะไร, ประเภทของเกมต่างๆ\n\n-Game engine\n\nทำความรู้จักกับ Game engine ว่าเป็น Software ที่ใช้พัฒนาเกมและได้รู้จักกับ Game engine ต่างๆ เช่น Unity,Unreal Engine,RPG maker,godot.\n\n-Unity Tutorial\n\n-Unity & Unity Hub\n\nดาวน์โหลดโปรแกรม Unity Hub&Unity มาเพื่อเตรียมสร้างเกม\n\n-Basic Windows\n\nเรียนรู้พื้นฐานในการสร้างเกม\n\n-A little bit of coding\n\nเขียนโค้ด script เกมด้วยภาษาC#\n\n-Goose Project Tutorial\n\n-First Person View\n\nได้ลองทำระบบเกมแบบ FPS\n\n-Third Person View\n\nได้ลองทำระบบเกมแบบ TPS\n\n-Goose\n\nลองทำเกมวิ่งหนีห่านโดยใช้ AI navigation\n\n-Assignment Basic Game\n\nมอบหมายงานสร้างเกมแบบง่ายๆ โดยใช้ AI navigation",
+    "picture1": "https://scontent.fbkk12-4.fna.fbcdn.net/v/t39.30808-6/358155968_1978834955817276_8119934216559577062_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeEsltT5I1wyiBtknOXod0cGl9ua2jk19Z-X25raOTX1ny6bQ2RQh1dD_zA0Wi3C8trzLGZoD69LuOF4etf5z7k-&_nc_ohc=HYR9e25wSa8AX8gg5o-&_nc_ht=scontent.fbkk12-4.fna&oh=00_AfCBWHSNl29T0VGGlUqLLOq-kLt8BVGENaQp_SFm5Y4ruw&oe=656F6A33",
+    "picture2": "https://scontent.fbkk12-3.fna.fbcdn.net/v/t39.30808-6/391563177_1978835005817271_8318247447177156612_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeFE0E2RKcyU3slYbrx5sXXlr2Y0q-VE74OvZjSr5UTvgznaYlcTQrpSqYjI8dCTDGcY5LYwi0mTpYk4nj3sEHRs&_nc_ohc=2EF-JH7sdfUAX8o3aQz&_nc_ht=scontent.fbkk12-3.fna&oh=00_AfAQFempD1g3icrb2hRTev-ap59PqyWSmDKSce7EHz3b-A&oe=65703567",
+    "picture3": "https://scontent.fbkk12-4.fna.fbcdn.net/v/t39.30808-6/387205324_1978835092483929_7784563531272788790_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeGVFHSihGhoIoU0mZNnL-n8JgpaaRoxShEmClppGjFKEVzY7hKc4jmt6dwZjwh0M68_PSyz_FbfYvHOl7fyRG2L&_nc_ohc=oRWACdnICFAAX-NGQYC&_nc_ht=scontent.fbkk12-4.fna&oh=00_AfCsLu7YD1pPKq44OyG2UjzgzRqLa9KzkWtBuSjNokdALA&oe=656EEEDE"
+  },
+  {
+    "weekNumber": "9",
+    "date": "19/10/2023",
+    "Topic": "The First Project Competition",
+    "content": "การเเข่งขันการเก็บลูกบอลของ Robot house keeper\r\n\r\n-House Keeper Robot Project (Midterm Project)\r\n\r\nจับกลุ่ม 6-7 คนประกอบหุ่นยนต์เก็บลูกบอลโดยใช้ความรู้ที่ได้เรียนมาทั้งหมดและต้องประกอบไปด้วย 3D printing,แผ่นอะคริลิกเพื่อทำที่เก็บลูกบอลและเขียนโปรแกรมการทำงานของหุ่นยนต์ด้วย micro:bit พร้อมทั้งใช้ AI ในการแยกสีหรือแยกวัตถุด้วยกล้อง Huskylens",
+    "picture1": "",
+    "picture2": "",
+    "picture3": ""
+  },
+  {
+    "weekNumber": "10",
+    "date": "2/11/2023",
+    "Topic": "Happy Coding",
+    "content": "- ได้รู้จักกับสิ่งที่เรียกว่า \"Arduino\" \n- ได้เรียนรู้ถึงความสำคัญและการทำงานของ Arduino\n- ได้รู้จักส่วนประกอบของบอร์ด Arduino\n- ทำความรู้จักกับการเขียนโค้ดคำสั่งสำหรับบอร์ด Arduino\n- ทดลองเขียนโค้ดเพื่อออกคำสั่งให้บอร์ด Arduino ทำภารกิจต่างๆ เช่น ทำให้หลอดไฟกระพริบตามความเข้มแสง, การสร้างโน้ตเพลงและการสร้างตัวอักษรเลื่อนบน digital screen",
+    "picture1": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/399644503_6726738547409470_3745591008634478506_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeEzQJ5FoH_xYuAKDp-xTp9C8Pl_XqU22Kjw-X9epTbYqN4899jRAB4hPscxMCN_qcnphWXD8uyDOsqXA4ktMeCw&_nc_ohc=merJ-bGHLx8AX8Usik7&_nc_ht=scontent.fbkk12-2.fna&oh=00_AfB9JHPyUj6Am8FrKV99AGLZDNZcEZmsNgc8sLxJ_AzPxA&oe=65703DD1",
+    "picture2": "https://scontent.fbkk12-5.fna.fbcdn.net/v/t39.30808-6/398954137_6726736330743025_3328156124334635133_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeFOHUnJCz0ODEa7TfRqcLRReK6GTtGs2Zh4roZO0azZmDTN8d0HqgTQqVXzjlJjBBfAW10q9I2T37vCG_m6x9oE&_nc_ohc=riKYVfHvAU4AX_WrUOJ&_nc_oc=AQmrz52U3Fs6TXGqs0C9XdpISsXA4QCfrdHbBqfwhZiCDW8NkMLX8aP0kdNmBDCnWcc&_nc_ht=scontent.fbkk12-5.fna&oh=00_AfC5FT02MzbbhE-8-AOz-Ewu3UZN_6mlBzAwKnUjQcxQBg&oe=656F979B",
+    "picture3": "https://scontent.fbkk8-4.fna.fbcdn.net/v/t39.30808-6/399046563_6726748414075150_6163406426328062803_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeHV5aVAovkkyCDntQf0hWM40FB8pCOC6yrQUHykI4LrKiOPaxs_2pgI5m9uaZ4i98qROq2aHASAHy9JPRRj3xLK&_nc_ohc=7SixE0B5N5MAX_nJ0-M&_nc_oc=AQmgAGjmwlIFSAOfOE0i1T2F5TUPIk0ittbfRDEwc7g9H4IBu9FjAKTy2R3UtI6eOw8&_nc_ht=scontent.fbkk8-4.fna&oh=00_AfD9vS2iDRIbE7g7-omEL0sCo3ZtVAMJcGygD3QmC_4ohw&oe=656F14C1"
+  },
+  {
+    "weekNumber": "11",
+    "date": "9/11/2023",
+    "Topic": "The Three Challenges",
+    "content": "- เป็นสัปดาห์ที่นำความรู้จากสัปดาห์ที่แล้วมาใช้ในการทำ Challenge\n- Challenge จะมีทั้งหมด 3 Challenge\n- Challenge ที่ 1 จะเป็นการให้ออกแบบเส้นทางในการเดินของหุ่นยนต์ให้หุ่นยนต์เดินตามทางจนเข้าเส้นชัย โดยระหว่างทางจะมีอุปสรรคต่างๆ เช่นเลี้ยวโค้ง เลี้ยวซ้ายเลี้ยวขวา\n- Challenge ที่ 2 จะเป็นการให้ทำหุ่นยนต์ Bumper เพื่อชนกับสิ่งของเพื่อเก็บคะแนน โดยจะมีสิ่งของทั้งหมด 8 ชิ้นต้องชนสิ่งของให้ได้ 5 ชิ้นภายในเวลา 3 นาที โดยสนามแข่งจะเป็นสนามแบบปิดมีกำแพงคอยกั้นต่างๆ\n- Challenge ที่ 3 จะเป็นการให้ทำหุ่นยนต์ที่ไล่ตามกำแพงไปเรื่อยๆ ตนถึงเส้นชัย โดนห้ามชนกำแพง ซึ่งระหว่างทางจะมีกำแพงหักไปหักมา",
+    "picture1": "https://scontent.fbkk8-4.fna.fbcdn.net/v/t39.30808-6/399913614_6757120571037934_1577006072953128395_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeEwE-YHkMQ_jhuKau33f1Ms9JW7klPOqy70lbuSU86rLqKUfTTRDfk50L4rgSGssuCtxRUH4__soUTFW9TfKR8y&_nc_ohc=Qfb0QcwC1GkAX9eCsMS&_nc_ht=scontent.fbkk8-4.fna&oh=00_AfCe9YvQI2qsOsP8QsbaxI_fMxLN5Eczb1rOfL3ORZPNug&oe=65701185",
+    "picture2": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/400380978_6757125277704130_22304440513731335_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeH-u_5wv313QhSwAXQWmsuYOuDfbJU7TUo64N9slTtNSj8p8sjP5rDPhHOP2wWsl0qA3Hc01oUqmZHK7ymEPyb-&_nc_ohc=5Mgk6Ho8J-MAX9-NcPB&_nc_ht=scontent.fbkk12-2.fna&oh=00_AfBYZonDnrIpS23hBOr8x2Uz8AFMl_vO9j_9PI7dfqYARA&oe=6570BA07",
+    "picture3": "https://scontent.fbkk12-5.fna.fbcdn.net/v/t39.30808-6/400419624_6757141544369170_1228088705068841832_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeHTmB36hONivXvbv5BoAJHZMbgX1_lhZhUxuBfX-WFmFSDjAE2tBd3ZUYQA9LlkInCbrgkr3Mh99_23i1XbZ4Ug&_nc_ohc=yzvDElGs0gIAX-_g-NK&_nc_ht=scontent.fbkk12-5.fna&oh=00_AfAoAgWzPtRaf5i-uR0OftpilJEbcRzUbAi9NSUsA_tLSA&oe=656FD083"
+  },
+  {
+    "weekNumber": "12",
+    "date": "16/11/2023",
+    "Topic": "Fundamental of Cyber Security/Threat",
+    "content": "-ได้รู้จักกับคำว่า \"Cyber security.\" ว่าหมายถึงอะไร \n-ได้เรียนรู้ว่า \"Cyber security\" ทำอะไร\n-รู้จักกับการโจรกรรมทาง Cyber แบบต่างๆ\n-ได้เรียนรู้วิธีป้องกันการโจรกรรมทาง Cyber\n-ได้รู้ว่ารหัสผ่านตนเองมีความปลอดภัยมากแค่ไหน\n-ได้ลองทำการ Hack Wepsite ครั้งแรกใน website \"Hackthissite.org\"",
+    "picture1": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/401840804_1997911813909590_2267299104543521121_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeEcLUkUFL2heqzI4h7kAZbmwIVX7bOC-hrAhVfts4L6Gl_J4k6z8jwfC2DQPXDgSWqF58r9PfEmE4Cx3btpZvr9&_nc_ohc=ZEQzu1nOKZ0AX-ozYc_&_nc_ht=scontent.fbkk12-2.fna&oh=00_AfD5kqeTChtoWP-YeOV5EY73xLu2DqaBEh16C0EAPLcixw&oe=656FD2B2",
+    "picture2": "https://scontent.fbkk12-3.fna.fbcdn.net/v/t39.30808-6/400891449_1107101217365717_1756410131209227863_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeFGJNSN2YWf7Tqv6MVjapaJpfupPl0iQ4-l-6k-XSJDjzof_ZUR3HSg9aTo1SzksgdYm6LVufLiWO1nplkG373b&_nc_ohc=BZzyzgsLMSEAX8X35EK&_nc_ht=scontent.fbkk12-3.fna&oh=00_AfBRSnH2lEz0_i_YYWnKs62DI5eTJ6QMvYvkgU1BWnY9Pw&oe=657010B9",
+    "picture3": "https://scontent.fbkk12-1.fna.fbcdn.net/v/t39.30808-6/401141591_1107160364026469_7030243077965989317_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeFiDzQmWT5UY1wxg9GfebmgTJT3FuB3C3tMlPcW4HcLe4NzHukIQsRl9bAdhVjmkhplGklOhAdLtZ0XaBAUncbT&_nc_ohc=wRVjFmDVkh0AX_JboDL&_nc_ht=scontent.fbkk12-1.fna&oh=00_AfBf0pRXCKJUA19Og1rZZY_NOcAPN3Gqk0khwl3XidUKkg&oe=656FD705"
+  },
+  {
+    "weekNumber": "13",
+    "date": "23/11/2023",
+    "Topic": "Writing, Reading and Presenting",
+    "content": "- เรียนรู้เกี่ยวกับการทำงานเป็นทีม\n- การทำสไลด์ให้น่าสนใจ\n- ให้ข้อเเนะนำในการนำเสนอข้อมูล และพรีเซนเทชั่น\n- สอน เเละทบทวนเกี่ยวกับการทำเเพลน เเล้วย้ำเตือนถึงความสำคัญของการวางเเผน",
+    "picture1": "https://scontent.fbkk12-1.fna.fbcdn.net/v/t39.30808-6/404600429_2001809870186451_4087220047859440903_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeGZLP4kx0yW9ILoFYPSB7VfeOYIcuWcBHt45ghy5ZwEe3XALMLkIgkXjFbTiU1MVjKvzSgaR6KzEicuRvd2dtuL&_nc_ohc=7QyhDVpe37MAX-GiuNh&_nc_ht=scontent.fbkk12-1.fna&oh=00_AfB9JtcDmo3qH166ToDsv0V8TS3iscfzYkZ5P8crFsV4TQ&oe=656FC146",
+    "picture2": "https://scontent.fbkk9-2.fna.fbcdn.net/v/t39.30808-6/404572564_2001810230186415_2470677994149587647_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeFn2M8NUND8ZcoJVCtd-7TwoXGbhB18eEuhcZuEHXx4S8KxKbAlOhb149TwpklaKl4ouseXDNU_wmhd6jGJdzy7&_nc_ohc=uqMFpsDdbY0AX8bYiFv&_nc_ht=scontent.fbkk9-2.fna&oh=00_AfD1dIEDnkmwa77nZWLt-pA3EZ_OVz4kZzd7-faXYLcRBA&oe=6570A30F",
+    "picture3": "https://scontent.fbkk8-4.fna.fbcdn.net/v/t39.30808-6/404879117_2001809746853130_6525682140224666895_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=612bd4&_nc_eui2=AeF-zXgrfrbckfjzdMedA1sF1piD5yeOWXvWmIPnJ45ZeyylY5dYeFyi8OsLeKMMumiiCK1DR-lk9nN5SoemowRM&_nc_ohc=-6pl9T0BB-kAX-LIxCQ&_nc_ht=scontent.fbkk8-4.fna&oh=00_AfDnT_GSZo8Tk4ERk0hvyKM1T3kbriPzOQAx9kXlkU5o-Q&oe=656F3229"
+  },
+  {
+    "weekNumber": "14",
+    "date": "30/11/2023",
+    "Topic": "Project Progress Presentation",
+    "content": "นำเสนอโปรเจคไฟนอล\n- โปรเจคกลุ่มเราเป็นโปรเจคเกี่ยวเว็บไซต์ที่เกี่ยวกับการรีวิวรถ\n- นำเสนอ actionplan planning idea เเละ prototype\n- ได้ข้อเสนอเเนะเพิ่มเติมจากอาจารย์ รวมถึงพี่ TA",
+    "picture1": "",
+    "picture2": "",
+    "picture3": ""
+  },
+  {
+    "weekNumber": "15",
+    "date": "4/12/2023",
+    "Topic": "Game Day",
+    "content": "",
+    "picture1": "",
+    "picture2": "",
+    "picture3": ""
+  },
+  {
+    "weekNumber": "16",
+    "date": "15/12/2023",
+    "Topic": "Final Exam",
+    "content": "",
+    "picture1": "",
+    "picture2": "",
+    "picture3": ""
+  }
+]
